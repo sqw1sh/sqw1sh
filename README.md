@@ -35,8 +35,6 @@ Hi, I'm **sqw1sh**. I enjoy building clean web interfaces, working on practical 
 | Project | What it's about |
 | :--- | :--- |
 | **[Portfolio & Web Apps](https://github.com/sqw1sh/portfolio-site)** | A React + TypeScript + Vite portfolio with three local MVP applications: **TraceShelf**, **QuietSlot**, and **RePair Atlas**. |
-| **[Orbis Arcana](https://github.com/sqw1sh/orbis-arcana)** | A Minecraft magic-mod project centered on spells, schools of magic, mastery progression, and procedural magic-circle visuals. |
-| **[AniBook](https://github.com/sqw1sh/AniBook)** | An Angular frontend project. |
 
 ### What I'm focusing on
 
